@@ -40,4 +40,4 @@ The Content-Based Filtering approach utilizes the features of songs (e.g., artis
 - Goal: This approach works well for users with a specific preference for certain types of content, making it suitable for personalized recommendations based on song attributes.
 
 ## Feedback and Issues:
-We’re open to suggestions, feedback, and bug reports. For inquiries, please contact [snehasishhaldar415@gmail.com](mailto:snehasishhaldar415@gmail.com).
+We’re open to suggestions, feedback, and bug reports. For inquiries, please contact [as8947007@gmail.com](mailto:8947007@gmail.com).
